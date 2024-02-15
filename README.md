@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ravindu Deshan, from Sri Lanka 🇱🇰
 - 👀 I’m interested in Android Customizations / Kernel Development etc.
 - 😌 I also own this channel : [Samsung & Android Tweaks](https://t.me/SamsungTweaks)
-- 🌱 I’m currently learning Bash and Python..💙
 - 📫 How to reach me : [@Ravindu_Deshan](https://t.me/Ravindu_Deshan) on Telegram 💬
 
 <!---
