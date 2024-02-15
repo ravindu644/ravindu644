@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ravindu Deshan
-- 👀 I’m interested in Android Customizations.
+- 👋 Hi, I’m Ravindu Deshan, from Sri Lanka 🇱🇰
+- 👀 I’m interested in Android Customizations / Kernel Development etc.
 - 🌱 I’m currently learning Bash and Python..💙
 - 📫 How to reach me : [@Ravindu_Deshan](https://t.me/Ravindu_Deshan) on Telegram 💬
 
