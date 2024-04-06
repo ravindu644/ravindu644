@@ -3,7 +3,7 @@
 ## 📈 GitHub Stats
 
 <!-- GitHub Stats Cards -->
-<a href="https://github.com/CHXRITH">
+<a href="https://github.com/ravindu644">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindu644&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="CHXRITH's GitHub Stats" />
 </a>
 
