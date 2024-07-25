@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+
 - 👋 Hey there! I'm Ravindu Deshan from Sri Lanka 🇱🇰. I love tweaking Android and developing kernels..🙈 Check out my channel [Samsung & Android Tweaks](https://t.me/SamsungTweaks) for more. Feel free to reach me on Telegram at [@Ravindu_Deshan](https://t.me/Ravindu_Deshan) 💬. Also, I'm into automating everyday tasks with bash scripts to make life easier! 😁
 
 ## 📈 GitHub Stats
