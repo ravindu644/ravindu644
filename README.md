@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=ravindu644&style=for-the-badge) (since 25/07/2024)
+![](https://komarev.com/ghpvc/?username=ravindu644&style=for-the-badge)
+<br>(☝🏼 since 25/07/2024)
 
 - 👋 Hey there! I'm Ravindu Deshan from Sri Lanka 🇱🇰. I love tweaking Android and developing kernels..🙈 Check out my channel [Samsung & Android Tweaks](https://t.me/SamsungTweaks) for more. Feel free to reach me on Telegram at [@Ravindu_Deshan](https://t.me/Ravindu_Deshan) 💬. Also, I'm into automating everyday tasks with bash scripts to make life easier! 😁
 
