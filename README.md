@@ -7,7 +7,7 @@
 
 ## What can I do? :D
 - **Android Customization**: Android performance optimizations, ROM porting, and tweaking.
-- **Kernel Development**: Expertise in compiling custom kernels from the source (performance/Nethunter/kernel-level root) 
+- **🐧 Kernel Development**: Expertise in compiling custom kernels from the source (performance/Nethunter/kernel-level root)
 - **Linux Proficiency**: Comfortable with Linux-based OSes, prefer Linux over Windows :) (daily driving Linux Mint and Pop!_OS) 
 - **Scripting**: Automating daily tasks and creating tools for improved productivity.  
   - ([Root your Samsung device in 10 minutes without wasting data!](https://github.com/ravindu644/samloader-actions))  
