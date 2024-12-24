@@ -5,7 +5,7 @@
 
 ---
 
-## What can I do? :D
+## Skills and Interests :D
 - **Android Customization**: Android performance optimizations, ROM porting, and tweaking.
 - **🐧 Kernel Development**: Expertise in compiling custom kernels from the source (performance/Nethunter/kernel level root)
 - **Linux Proficiency**: I'm more comfortable with Linux than Windows :) (daily driving Linux Mint) 
