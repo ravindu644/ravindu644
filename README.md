@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ravindu644&style=for-the-badge)  
 <br>(☝🏼 since 25/07/2024)
 
-- 👋 Hey there! I'm Ravindu Deshan from Sri Lanka 🇱🇰. I love tweaking Android and developing kernels for Android devices as a hobby. Check out my channel [Samsung & Android Tweaks](https://t.me/SamsungTweaks) for more. Feel free to reach me on Telegram at [@Ravindu_Deshan](https://t.me/Ravindu_Deshan) 💬
+- 👋 Hey there! I'm Ravindu Deshan from Sri Lanka 🇱🇰. I love tweaking Android and developing kernels for Android devices as a hobby. Check out my channel [Samsung & Android Tweaks](https://t.me/SamsungTweaks) for more. Drop a mail at Droidcasts@protonmail.com if you'd like to contact me or ask questions about anything related to the topic ;)
 
 ---
 
