@@ -7,15 +7,15 @@
 
 ## What can I do? :D
 - **Android Customization**: Android performance optimizations, ROM porting, and tweaking.
-- **🐧 Kernel Development**: Expertise in compiling custom kernels from the source (performance/Nethunter/kernel-level root)
-- **Linux Proficiency**: Comfortable with Linux based OSes, prefer Linux over Windows :) (daily driving Linux Mint and Pop!_OS) 
+- **🐧 Kernel Development**: Expertise in compiling custom kernels from the source (performance/Nethunter/kernel level root)
+- **Linux Proficiency**: I'm more comfortable with Linux than Windows :) (daily driving Linux Mint) 
 - **Scripting**: Automating daily tasks and creating tools for improved productivity.  
   - ([Root your Samsung device in 10 minutes without wasting data!](https://github.com/ravindu644/samloader-actions))  
-- **PC Hardware & Software**: Enthusiast in fixing almost any software-related issue with Windows PCs and Samsung devices.  
-- **System Administration**: Interested in building home servers.  
-- **Content Creation**: I enjoy writing guides about topics that no one has written or thought about before.  Also, I'm actively contributing to the OSS community.  
+- **PC Hardware & Software**: Enthusiast in fixing almost any software related issue with Windows PCs and Samsung devices.  
+- **System Administration**: Interested in building linux home servers.  
+- **Content Creation**: I enjoy writing guides about topics that no one has written or thought about before. Also, I'm actively contributing to the OSS community.  
   - Personal Blog: [@Ravindu_D](https://t.me/Ravindu_D)  
-  - Official YouTube (yeah, 0 to 1.27K subscribers with just one video! 🙂): [Droidcasts](https://www.youtube.com/channel/UCV618w09SRRNqQ515_JZVEg)  
+  - Official YouTube (EOL?): [Droidcasts](https://www.youtube.com/channel/UCV618w09SRRNqQ515_JZVEg)  
 ---
 
 ## 📈 GitHub Stats  
