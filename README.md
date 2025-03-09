@@ -14,7 +14,8 @@
 - **PC Hardware & Software**: Enthusiast in fixing almost any software related issue with Windows PCs and Samsung devices.
   - **Hardware:** Still learning :) 
 - **System Administration**: Interested in building linux home servers.  
-- **Content Creation**: I enjoy writing guides about topics that no one has written or thought about before. Also, I'm actively contributing to the OSS community.  
+- **Content Creation**: I enjoy writing guides about topics that no one has written or thought about before. Also, I'm actively contributing to the OSS community.
+  - **Medium:** [@ravindu644](https://ravindu644.medium.com/)
   - Personal Blog: [@Ravindu_D](https://t.me/Ravindu_D)  
   - Official YouTube (EOL?): [Droidcasts](https://www.youtube.com/channel/UCV618w09SRRNqQ515_JZVEg)  
 ---
