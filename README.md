@@ -6,12 +6,13 @@
 ---
 
 ## Skills and Interests :D
-- **Android Customization**: Android performance optimizations, ROM porting, and tweaking.
-- **🐧 Kernel Development**: Expertise in compiling custom kernels from the source (performance/Nethunter/kernel level root)
-- **Linux Proficiency**: I'm more comfortable with Linux than Windows :) (daily driving Linux Mint) 
+- **Android Customization**: Android performance optimizations, Building Kernels & recoveries, ROM porting, and tweaking.
+- **🐧 Kernel Development**: Expertise in compiling custom kernels for any android device which has an open-source kernel (performance/Nethunter/KernelSU).
+- **Linux Proficiency**: I'm more comfortable with Linux than Windows :) {daily driving [Pop!_OS](https://pop.system76.com/)}
 - **Scripting**: Automating daily tasks and creating tools for improved productivity.  
   - ([Root your Samsung device in 10 minutes without wasting data!](https://github.com/ravindu644/samloader-actions))  
-- **PC Hardware & Software**: Enthusiast in fixing almost any software related issue with Windows PCs and Samsung devices.  
+- **PC Hardware & Software**: Enthusiast in fixing almost any software related issue with Windows PCs and Samsung devices.
+  - **Hardware:** Still learning :) 
 - **System Administration**: Interested in building linux home servers.  
 - **Content Creation**: I enjoy writing guides about topics that no one has written or thought about before. Also, I'm actively contributing to the OSS community.  
   - Personal Blog: [@Ravindu_D](https://t.me/Ravindu_D)  
