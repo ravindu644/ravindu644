@@ -1,19 +1,22 @@
 ![](https://komarev.com/ghpvc/?username=ravindu644&style=for-the-badge)  
-<br>(☝🏼 since 25/07/2024)
 
-- 👋 Hey there! I'm Ravindu Deshan from Sri Lanka 🇱🇰. I love tweaking Android and developing kernels for Android devices as a hobby. Check out my channel [Samsung & Android Tweaks](https://t.me/SamsungTweaks) for more. Drop a mail at Droidcasts@protonmail.com if you'd like to contact me or ask questions about anything related to the topic ;)
+- 👋 Hey there! I'm Ravindu Deshan from Sri Lanka 🇱🇰. I love tweaking Samsung Devices and developing kernels for Android devices as a hobby. Check out my channel [Samsung & Android Tweaks](https://t.me/SamsungTweaks) for more. Drop a mail at Droidcasts@protonmail.com if you'd like to contact me or ask questions about anything related to the topic :)
 
 ---
 
-## Skills and Interests :D
-- **Android Customization**: Android performance optimizations, Building Kernels & recoveries, ROM porting, and tweaking.
-- **🐧 Kernel Development**: Expertise in compiling custom kernels for any android device which has an open-source kernel (performance/Nethunter/KernelSU).
-- **Linux Proficiency**: I'm more comfortable with Linux than Windows :) {daily driving [Pop!_OS](https://pop.system76.com/)}
+## My Interests :)
+- **Android Customization**: Performance optimizations, Building Kernels & recoveries, and tweaking.
+- **🐧 Kernel Development**: Expertise in compiling custom kernels including Nethunter & KernelSU Kernels
+  - Check out [ravindu644/Android-Kernel-Tutorials](https://github.com/ravindu644/Android-Kernel-Tutorials)
+- **Linux Proficiency**: daily driving [Pop!_OS](https://pop.system76.com) btw
 - **Scripting**: Automating daily tasks and creating tools for improved productivity.  
-  - ([Root your Samsung device in 10 minutes without wasting data!](https://github.com/ravindu644/samloader-actions))  
+  - [Root your Samsung device in 10 minutes without wasting data..!](https://github.com/ravindu644/samloader-actions)
 - **PC Hardware & Software**: Enthusiast in fixing almost any software related issue with Windows PCs and Samsung devices.
-  - **Hardware:** Still learning :) 
-- **System Administration**: Interested in building linux home servers.  
+  - **Hardware:** I'm also repairing laptops and computers and have worked as a technician in a computer repair shop.
+- **System Administration**: Interested in building linux home servers for my own personal use.
+
+  - **Currently,** I have converted an old Pentium laptop into a Linux home server, which functions as a NAS, media server, and hosts my own Telegram bots 🐧
+
 - **Content Creation**: I enjoy writing guides about topics that no one has written or thought about before. Also, I'm actively contributing to the OSS community.
   - **Medium:** [@ravindu644](https://ravindu644.medium.com/)
   - Personal Blog: [@Ravindu_D](https://t.me/Ravindu_D)  
