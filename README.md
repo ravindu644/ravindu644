@@ -8,7 +8,7 @@
 - **Android Customization**: Performance optimizations, Building Kernels & recoveries, and tweaking.
 - **🐧 Kernel Development**: Expertise in compiling custom kernels including Nethunter & KernelSU Kernels
   - Check out [ravindu644/Android-Kernel-Tutorials](https://github.com/ravindu644/Android-Kernel-Tutorials)
-- **Linux Proficiency**: daily driving [Fedora Workstation 42](https://fedoraproject.org/workstation/download) btw
+- **Linux Proficiency**: Sadly, I had to daily drive Ubuntu 25.04 because of the `unlabeled_t` SELinux context issue in Arch/Fedora-based distros.
 - **Scripting**: Automating daily tasks and creating tools for improved productivity.  
   - [Root your Samsung device in 10 minutes without wasting data..!](https://github.com/ravindu644/samloader-actions)
 - **PC Hardware & Software**: Enthusiast in fixing almost any software related issue with Windows PCs and Samsung devices.
