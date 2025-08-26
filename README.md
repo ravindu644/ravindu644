@@ -2,6 +2,8 @@
 
 - 👋 Hey there! I'm Ravindu Deshan from Sri Lanka 🇱🇰. I love tweaking Samsung Devices and developing kernels for Android devices as a hobby. Check out my channel [Samsung & Android Tweaks](https://t.me/SamsungTweaks) for more. Drop a mail at Droidcasts@protonmail.com if you'd like to contact me or ask questions about anything related to the topic :)
 
+**Edit @ 2025.08.26:** I won’t be responding to any new emails, and I’ve stepped away from development for a while as I prepare for my final exams. Thanks in advance.
+
 ---
 
 ## My Interests :)
