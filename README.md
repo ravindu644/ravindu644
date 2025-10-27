@@ -3,17 +3,9 @@
 
 👋 Hey there! I'm **Ravindu Deshan**, also known as `ravindu644` in the Android developer community.
 
----
-
-### 🚀 What I Do
-
 I'm passionate about customizing Android devices at the deepest level - from kernel compilation and custom recoveries to advanced system-level modifications. I love pushing the boundaries of what Android devices can do!
 
----
-
-### 📚 Community Contributions
-
-Most people know me for my work on the [**Android-Kernel-Tutorials**](https://github.com/ravindu644/Android-Kernel-Tutorials) repository, where I share the fundamentals of Android kernel development. It's specially designed for beginners who have no idea about kernel development or where to even start :)
+Most people know me for my work on the [**Android-Kernel-Tutorials**](https://github.com/ravindu644/Android-Kernel-Tutorials) repository, where I share the fundamentals of Android kernel development for beginners.
 
 ---
 
