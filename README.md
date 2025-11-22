@@ -12,6 +12,7 @@ Most people know me for my work on the [**Android-Kernel-Tutorials**](https://gi
 ### 🔧 My Main Repositories
 
 - [**Android-Kernel-Tutorials**](https://github.com/ravindu644/Android-Kernel-Tutorials) - Comprehensive guides for Android kernel development for beginners
+- [Ubuntu-Chroot](https://github.com/ravindu644/Ubuntu-Chroot) -  Run Ubuntu 24.04 on Android With full Hardware Access and pure namespace isolation..!
 - [**samloader-actions**](https://github.com/ravindu644/samloader-actions) - Root your Samsung device in 10 minutes without wasting data..!
 - [**patch-recovery-revived**](https://github.com/ravindu644/patch-recovery-revived) - a "Working" Fastbootd recovery patcher for Samsung devices
 - [**Android_Image_Tools**](https://github.com/ravindu644/Android_Image_Tools) - CRB Kitchen like tool, but for Linux and 100% open source
