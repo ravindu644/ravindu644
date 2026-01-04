@@ -1,5 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=ravindu644&style=for-the-badge)
 
+> [!NOTE]
+> **I’m stepping back from development for a while,** AND all of my repositories are now archived. I plan to resume development after a few months.
+>
+> **All requests/emails related to tech or promotions will be ignored.**
+>
+> More info: [here](https://t.me/SamsungTweaks/991)
+>
+> Last update: 2026-01-04
+
 
 👋 Hey there! I'm **Ravindu Deshan**, also known as `ravindu644` in the Android developer community.
 
@@ -17,19 +26,6 @@ Most people know me for my work on the [**Android-Kernel-Tutorials**](https://gi
 - [**patch-recovery-revived**](https://github.com/ravindu644/patch-recovery-revived) - a "Working" Fastbootd recovery patcher for Samsung devices
 - [**Android_Image_Tools**](https://github.com/ravindu644/Android_Image_Tools) - CRB Kitchen like tool, but for Linux and 100% open source
 - [**Samsung_Additional_Features**](https://github.com/ravindu644/Samsung_Additional_Features) - Enable ton of Customizations and hidden features in Samsung Devices !
-
----
-
-### 💼 Need a Custom Kernel?
-
-Whether you need:
-- **Kernel-based rooting** (KernelSU, APatch in Samsung devices, etc.)
-- **Kali NetHunter integration** to transform your device into a powerful security toolkit
-- **Custom tweaks** like overclocking, undervolting, or specialized drivers
-
-I offer professional custom kernel development services on Fiverr!
-
-[![Hire me on Fiverr](https://img.shields.io/badge/Hire_Me_on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/BRLBgyl)
 
 ---
 
