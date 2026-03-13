@@ -1,13 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=ravindu644&style=for-the-badge)
 
 > [!NOTE]
-> **I’m stepping back from development for a while,** AND all of my repositories are now archived. I plan to resume development after a few months.
->
-> **All requests/emails related to tech or promotions will be ignored.**
+> **I’m stepping back from development for a while,** and most of my repositories are now archived. I plan to resume development after a few months.
+>  - Even when I do development, you may see some inconsistencies in my development pace. But it is temporary..
 >
 > More info: [here](https://t.me/SamsungTweaks/991)
 >
-> Last update: 2026-01-04
+> Last update: 2026-03-13
 
 
 👋 Hey there! I'm **Ravindu Deshan**, also known as `ravindu644` in the Android developer community.
@@ -16,10 +15,13 @@ I'm passionate about customizing Android devices at the deepest level - from ker
 
 Most people know me for my work on the [**Android-Kernel-Tutorials**](https://github.com/ravindu644/Android-Kernel-Tutorials) repository, where I share the fundamentals of Android kernel development for beginners.
 
+**You may have also seen me on Reddit,** especially in [/r/selfhosted/](https://www.reddit.com/r/selfhosted/comments/1rqr8yq/i_turned_my_old_galaxy_s10_into_a_selfhosted/) and [/r/androidroot](https://www.reddit.com/r/androidroot/comments/1rq3pse/i_turned_my_old_galaxy_s10_into_a_real_home/), where I blew up my new project [**Droidspaces**](https://github.com/ravindu644/Droidspaces-OSS) with some serious impressions :D
+
 ---
 
 ### 🔧 My Main Repositories
 
+- [**Droidspaces**](https://github.com/ravindu644/Droidspaces-OSS) - a lightweight, portable Linux containerization tool that lets you run full Linux environments on top of Android or Linux, with complete init system support including systemd, OpenRC, and other init systems
 - [**Android-Kernel-Tutorials**](https://github.com/ravindu644/Android-Kernel-Tutorials) - Comprehensive guides for Android kernel development for beginners
 - [**Ubuntu-Chroot**](https://github.com/ravindu644/Ubuntu-Chroot) -  Run Ubuntu 24.04 on Android With full Hardware Access and pure namespace isolation..!
 - [**samloader-actions**](https://github.com/ravindu644/samloader-actions) - Root your Samsung device in 10 minutes without wasting data..!
