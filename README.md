@@ -1,13 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ravindu644&style=for-the-badge)
 
-> [!NOTE]
-> **I’m stepping back from development for a while,** and most of my repositories are now archived. I plan to resume development after a few months.
->  - Even when I do development, you may see some inconsistencies in my development pace. But it is temporary..
->
-> More info: [here](https://t.me/SamsungTweaks/991)
->
-> Last update: 2026-03-13
-
 
 👋 Hey there! I'm **Ravindu Deshan**, also known as `ravindu644` in the Android developer community.
 
